@@ -15,6 +15,9 @@ const e = () => {
 }
 
 
+const f = () => {
+    console.log("test");
+}
 
 a();
 
