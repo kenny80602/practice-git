@@ -7,7 +7,7 @@ const c = () => {
 }
 
 const d = () => {
-    console.log("test");
+    console.log("test2");
 }
 
 a();
